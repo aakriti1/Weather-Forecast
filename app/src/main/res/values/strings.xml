@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="latLong">LatLng</string>
+    <string name="allow_location_permission">Allow location permission</string>
+    <string name="if_permission_not">If permission is not allowed then you are not able to use application features.</string>
+    <string name="allow">Allow</string>
+    <string name="not_now">Not now</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="location_permission_not_granted">Location Permission not granted</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="refresh">Refresh</string>
+    <string name="click_here">Click here</string>
+    <string name="min_temp">Min Temp: </string>
+    <string name="max_temp">Max Temp: </string>
+    <string name="connection_lost">Connection lost?</string>
+    <string name="please_check_internet">Please check your internet connection and try again</string>
+    <string name="okay">Okay</string>
+    <string name="notification_channel_id">101</string>
+    <string name="notification_title">Updating Location</string>
+    <string name="cancel">cancel</string>
+    <string name="channel_name">my_channel</string>
+    <string name="channel_id">my_channel</string>
+    <string name="channel_description">Fetching weather data</string>
+
+</resources>
